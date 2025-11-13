@@ -39,8 +39,8 @@ You can submit your work in one of the following formats:
 - Static visuals (PNG/PDF) with a short written summary
 
 Each submission must include: 
-1. Your visualizations or dashboard link
-2. A short write-up (max 500 words) describing your process, findings, and insights
+- Your visualizations or dashboard link
+- A short write-up (max 500 words) describing your process, findings, and insights
 
 ### Prizes
 | Position | Reward |
