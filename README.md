@@ -2,6 +2,8 @@ The Soft Drink Market Insight Challenge is a data visualization competition focu
 
 Your mission: Create an interactive or static dashboard (or series of visualizations) that reveals meaningful insights from the data and tells a clear story about soft drink distribution, brand dominance, and consumer trends.
 
+We’re not just looking for numbers — we’re looking for insightful stories that show what this data says about market realities on the ground.
+
 Overview of Dataset
 The dataset includes the following columns
 1) Outlet Name and Type (e.g., supermarkets, kiosks, restaurants, shops)
@@ -13,3 +15,6 @@ The dataset includes the following columns
 7) Stock Condition
 
 Data Shape (1500, 38)
+File format: Comma Delimited (.csv)
+
+You’re free to clean, preprocess, and augment the dataset as needed.
