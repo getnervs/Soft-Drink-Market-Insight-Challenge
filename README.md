@@ -44,6 +44,7 @@ Each submission must include:
 
 ### Prizes
 | Position | Reward |
+|----------|--------|
 | 1st Place | N100,000 + Recognition Certificate |
 | 2nd Place | N70,000 + Recognition Certificate |
 | 3rd Place | N30,000 + Recognition Certificate |
