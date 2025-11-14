@@ -16,9 +16,8 @@ The dataset includes the following columns
 6) Product Shelf Presence
 7) Stock Condition
 
-You can access the [Nervs data challenge data here] () Data Shape (1500, 38)
-
-File format: Comma Delimited (.csv)
+You can access the [Nervs data challenge data here] (https://github.com/getnervs/Soft-Drink-Market-Insight-Challenge/blob/main/Product%20Visibility%20Challenge%20Data.csv) 
+Data Shape (1500, 38) | File format: Comma Delimited (.csv)
 
 You’re free to clean, preprocess, and augment the dataset as needed.
 
@@ -32,7 +31,7 @@ You’re free to clean, preprocess, and augment the dataset as needed.
 
 
 ### Submission Guidelines
-To amplify the amazing work coming out of this challenge and showcase your skills to the Nervs community, share your work on X(formerly Twitter) and ensure you **tag us @getnervs** and also use the **hashtag #NervsDataChallenge**
+To amplify :boom: the amazing work coming out of this challenge and showcase your skills to the Nervs community, share your work on X(formerly Twitter) and ensure you **tag us @getnervs** and also use the **hashtag #NervsDataChallenge**
 
 You can share your work in one of the following formats: 
 - A screenshot of your dashboard or url link 
@@ -40,7 +39,7 @@ You can share your work in one of the following formats:
 - A link to you repo + screenshots
 
 
-### Prizes
+### Prizes :money_mouth_face:
 | Position | Reward |
 |----------|--------|
 | 1st Place | N100,000 + Recognition Certificate |
