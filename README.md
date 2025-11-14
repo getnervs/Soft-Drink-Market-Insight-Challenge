@@ -32,15 +32,13 @@ You’re free to clean, preprocess, and augment the dataset as needed.
 
 
 ### Submission Guidelines
-You can submit your work in one of the following formats: 
-- Kaggle Notebook
-- Power BI or Tableau dashboard (link or screenshot + explanation) -
-- Streamlit or Plotly web app link -
-- Static visuals (PNG/PDF) with a short written summary
+To amplify the amazing work coming out of this challenge and showcase your skills to the Nervs community, share your work on X(formerly Twitter) and ensure you **tag us @getnervs** and also use the **hashtag #NervsDataChallenge**
 
-Each submission must include: 
-- Your visualizations or dashboard link
-- A short write-up (max 500 words) describing your process, findings, and insights
+You can share your work in one of the following formats: 
+- A screenshot of your dashboard or url link 
+- A carousel of charts
+- A link to you repo + screenshots
+
 
 ### Prizes
 | Position | Reward |
