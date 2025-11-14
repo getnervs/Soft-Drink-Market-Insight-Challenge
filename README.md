@@ -16,7 +16,7 @@ The dataset includes the following columns
 6) Product Shelf Presence
 7) Stock Condition
 
-Data Shape (1500, 38)
+You can access the [Nervs data challenge data here] () Data Shape (1500, 38)
 
 File format: Comma Delimited (.csv)
 
