@@ -31,7 +31,9 @@ You’re free to clean, preprocess, and augment the dataset as needed.
 
 
 ### Submission Guidelines
-To amplify :boom: the amazing work coming out of this challenge and showcase your skills to the Nervs community, share your work on X(formerly Twitter) and ensure you **tag us @getnervs** and also use the **hashtag #NervsDataChallenge**
+To amplify :boom: the amazing work coming out of this challenge and showcase your skills to the Nervs community, share your work on X (formerly Twitter) and ensure you **tag us @getnervs** and also use the **hashtag #NervsDataChallenge**. **Also, to be considered for the prizes, [fill this google form](https://forms.gle/DHr2WRATsgeRTXGy9) to enter your submission for consideration.**\
+
+**Submission deadline is November 30th, 2025.**
 
 You can share your work in one of the following formats: 
 - A screenshot of your dashboard or url link 
